@@ -12,6 +12,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 - [Oculus Rift](https://www.oculus.com/en-us/rift/) - 
 - [Vive](http://www.htcvr.com/) - 
 - [Gear VR](http://www.samsung.com/global/galaxy/wearables/gear-vr/) - Mobile. Consumer release.
+- [Cardboard](https://www.google.com/get/cardboard/) - Mobile. Cheapest.
 
 
 ## (Game) engines
@@ -20,8 +21,14 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 
 ## Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
+- 
 
 ## Books
+- (Ready Player One)[https://en.wikipedia.org/wiki/Ready_Player_One] -
+
+## Tutorials
+
+## Recorded talks
 
 ## Podcasts
 - [Voices of VR](http://voicesofvr.com/) - Daily podcast about VR
