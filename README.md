@@ -37,6 +37,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 
 ## Articles
 - [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
+- [How to support GearVR and Google Cardboard in one Unity3D project](http://ralphbarbagallo.com/2015/05/26/how-to-support-gear-vr-and-google-cardboard-in-one-unity3d-project/)
 
 ## Books
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) -
