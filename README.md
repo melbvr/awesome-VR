@@ -14,6 +14,8 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 - [Gear VR](http://www.samsung.com/global/galaxy/wearables/gear-vr/) - Mobile. Consumer release.
 - [Cardboard](https://www.google.com/get/cardboard/) - Mobile. Cheapest.
 
+### Other hardware
+- [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
 
 ## Software
 
