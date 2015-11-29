@@ -52,6 +52,9 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ## Podcasts
 - [Voices of VR](http://voicesofvr.com/) - Daily podcast about VR
 
+## Online Courses
+- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+
 ## Community
 
 ### Reddit
