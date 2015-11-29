@@ -24,3 +24,4 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ## Books
 
 ## Podcasts
+- [Voices of VR](http://voicesofvr.com/) - Daily podcast about VR
