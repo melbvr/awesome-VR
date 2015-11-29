@@ -38,7 +38,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ## Tutorials
 
 ## Recorded talks
-- (Oculus videos)[https://www.youtube.com/user/oculusvr/videos] - Youtube channel.
+- [Oculus videos](https://www.youtube.com/user/oculusvr/videos) - YouTube channel.
 
 ## Podcasts
 - [Voices of VR](http://voicesofvr.com/) - Daily podcast about VR
