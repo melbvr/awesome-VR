@@ -33,7 +33,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ### 3D models
 
 ## Books
-- (Ready Player One)[https://en.wikipedia.org/wiki/Ready_Player_One] -
+- [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) -
 
 ## Tutorials
 
