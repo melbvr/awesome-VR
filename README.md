@@ -32,6 +32,9 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 
 ### 3D models
 
+## Articles
+- [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
+
 ## Books
 - [Ready Player One](https://en.wikipedia.org/wiki/Ready_Player_One) -
 
