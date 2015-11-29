@@ -42,3 +42,9 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 
 ## Podcasts
 - [Voices of VR](http://voicesofvr.com/) - Daily podcast about VR
+
+## Community
+
+### Reddit
+- [Virtual Reality](https://www.reddit.com/r/virtualreality/) 
+- [Oculus](https://www.reddit.com/r/oculus/) 
