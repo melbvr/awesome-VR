@@ -4,3 +4,23 @@
 Inspired by [@sindresorhus](https://github.com/sindresorhus)' [awesome](https://github.com/sindresorhus/awesome) and improved by these **[amazing contributors](https://github.com/melbvr/awesome-VR/graphs/contributors)**.
 
 If this list is not complete, you can [contribute](https://github.com/melbvr/awesome-VR/edit/master/README.md) to make it so.
+
+## Hardware
+
+### Head-mounted display
+
+- [Oculus Rift](https://www.oculus.com/en-us/rift/) - 
+- [Vive](http://www.htcvr.com/) - 
+- [Gear VR](http://www.samsung.com/global/galaxy/wearables/gear-vr/) - Mobile. Consumer release.
+
+
+## (Game) engines
+- [Unity](https://unity3d.com/) - Lots of resources, easy to get started.
+- [Unreal](https://www.unrealengine.com) -
+
+## Web
+- [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
+
+## Books
+
+## Podcasts
