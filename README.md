@@ -15,13 +15,22 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 - [Cardboard](https://www.google.com/get/cardboard/) - Mobile. Cheapest.
 
 
-## (Game) engines
+## Software
+
+### (Game) engines
 - [Unity](https://unity3d.com/) - Lots of resources, easy to get started.
 - [Unreal](https://www.unrealengine.com) -
 
-## Web
+### 3D modeling
+- [Blender](https://www.blender.org/)
+
+### Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
-- 
+
+
+## Assets
+
+### 3D models
 
 ## Books
 - (Ready Player One)[https://en.wikipedia.org/wiki/Ready_Player_One] -
@@ -29,6 +38,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ## Tutorials
 
 ## Recorded talks
+- (Oculus videos)[https://www.youtube.com/user/oculusvr/videos] - Youtube channel.
 
 ## Podcasts
 - [Voices of VR](http://voicesofvr.com/) - Daily podcast about VR
