@@ -18,7 +18,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ## Software
 
 ### (Game) engines
-- [Unity](https://unity3d.com/) - Lots of resources, easy to get started.
+- [Unity](https://unity3d.com/) - Lots of resources, easy to get started. [Awesome Unity ](https://github.com/RyanNielson/awesome-unity)
 - [Unreal](https://www.unrealengine.com) -
 
 ### 3D modeling
@@ -31,6 +31,9 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ## Assets
 
 ### 3D models
+- [3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en)
+- [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=category:0)
+- [TF3DM](http://tf3dm.com/)
 
 ## Articles
 - [VR Best Practices](https://developer.oculus.com/documentation/intro-vr/latest/concepts/bp_intro/) - VR Best Practices by Oculus.
