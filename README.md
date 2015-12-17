@@ -29,6 +29,9 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 ### Web
 - [Awesome WebVR](https://github.com/wizztjh/awesome-WebVR) - List of WebVR resources.
 
+## UI/UX
+
+- [UI/UX VR](https://github.com/omgmog/ui-ux-vr) - A list of resources about the UI/UX considerations for VR.
 
 ## Assets
 
