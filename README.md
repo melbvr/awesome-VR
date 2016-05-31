@@ -13,6 +13,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 - [Vive](http://www.htcvr.com/) - 
 - [Gear VR](http://www.samsung.com/global/galaxy/wearables/gear-vr/) - Mobile. Consumer release.
 - [Cardboard](https://www.google.com/get/cardboard/) - Mobile. Cheapest.
+- [Daydream](https://vr.google.com/daydream/) - Mobile platform, no public realase - Coming in Fall 2016.
 
 ### Other hardware
 - [Leap Motion](https://www.leapmotion.com/) - Use hand and finger motions as input.
@@ -21,6 +22,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 
 ### (Game) engines
 - [Unity](https://unity3d.com/) - Lots of resources, easy to get started. [Awesome Unity ](https://github.com/RyanNielson/awesome-unity)
+  - [Google VR SDK for Unity](https://developers.google.com/vr/unity/#features) - Build VR applications for Android and iOS.
 - [Unreal](https://www.unrealengine.com) -
 
 ### 3D modeling
