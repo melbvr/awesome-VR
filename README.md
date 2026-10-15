@@ -13,7 +13,7 @@ If this list is not complete, you can [contribute](https://github.com/melbvr/awe
 - [Vive](http://www.htcvr.com/) - 
 - [Gear VR](http://www.samsung.com/global/galaxy/wearables/gear-vr/) - Mobile. Consumer release.
 - [Cardboard](https://www.google.com/get/cardboard/) - Mobile. Cheapest.
-- [Daydream](https://vr.google.com/daydream/) - Mobile platform, no public realase - Coming in Fall 2016.
+- Daydream — Google's mobile VR platform (discontinued 2019; the link 404s). On the latest chapter in consumer VR hardware: [Valve kills the Index after seven years](https://calder-brief.pages.dev/valve-index-sunset-2019-2026-clearance.html)
 - [PSVR]
 
 ### Other hardware
